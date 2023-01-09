@@ -1,6 +1,7 @@
 # prueba
-##  Instalacion
-##  Despliegue
-###  Paso1
+## Instalacion
+## Despliegue
+### Paso1
 ### Paso 2
-###  Paso 3
+### Paso 3 
+###
